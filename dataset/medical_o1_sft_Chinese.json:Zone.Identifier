@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.modelscope.cn/datasets/FreedomIntelligence/medical-o1-reasoning-SFT/files
+HostUrl=https://www.modelscope.cn/datasets/FreedomIntelligence/medical-o1-reasoning-SFT/resolve/master/medical_o1_sft_Chinese.json
